@@ -11,3 +11,7 @@ git push -u origin main (to push to the github)
 git remote add origin https://github.com/githublince/someshit.git
 git branch -M main
 git push -u origin main
+
+
+
+
