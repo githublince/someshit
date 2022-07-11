@@ -13,5 +13,8 @@ git branch -M main
 git push -u origin main
 
 
+>>> to see all branches including remote branch
+    git branch -a
 
+>>> Remote and local tracking of branches
 
