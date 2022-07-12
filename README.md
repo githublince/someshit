@@ -22,6 +22,8 @@ git push -u origin main
 >>> to see all remote branches 
     git branch -r
 
+    
+
 >>> to push branch to github
     git push origin NEW_branch
 
