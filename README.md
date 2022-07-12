@@ -23,8 +23,13 @@ git push -u origin main
     git branch -r
 
 >>> To pull github all branch
-        git fetch origin
+    1) git fetch origin (to fetch all branches remotly present)
+    2) git branch -a (to see all available branches)
+    3) git branch --track <branchname> <origin/branchname>
 
 >>> to push branch to github
     git push origin NEW_branch
+
+
+
 
