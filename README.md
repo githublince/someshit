@@ -16,5 +16,16 @@ git push -u origin main
 >>> to see all branches including remote branch
     git branch -a
 
+>>> to see all  local branches 
+    git branch 
+
+>>> to see all remote branches 
+    git branch -r
+
+>>> to push branch to github
+    git push origin NEW_branch
+
+
+
 >>> Remote and local tracking of branches
 
