@@ -22,7 +22,8 @@ git push -u origin main
 >>> to see all remote branches 
     git branch -r
 
-    
+>>> To pull github all branch
+        git fetch origin
 
 >>> to push branch to github
     git push origin NEW_branch
