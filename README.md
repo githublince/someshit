@@ -28,7 +28,7 @@ git push -u origin main
     3) git branch --track <branchname> <origin/branchname>
 
 >>> to push branch to github
-    git push origin NEW_branch
+    1) git push origin NEW_branch (when the branch is pushed for first time)
 
 >>> To pull github all branch
     1) git fetch origin (to fetch all branches remotly present)
